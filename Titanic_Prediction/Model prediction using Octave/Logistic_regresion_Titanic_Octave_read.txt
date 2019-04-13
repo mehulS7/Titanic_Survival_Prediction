@@ -1,13 +1,13 @@
-% read
+% Read
 
 
-% please change the path by typing command <cd 'pathname'> in octave where both the dataset (train and test) and executable 
-% Logistic_regresion_Titanic_Octave.m file is present
+Please change the path by typing command: <cd 'directoryPath'> in octave where both the dataset (train and test) and executable Logistic_regresion_Titanic_Octave.m file is present
+
+To run Logistic_regresion_Titanic_Octave.m file just type filename and hit enter - whole code will be executed at once
+
+If anyone wants to extract the prediction vector, It can be done by using command: <save 'directoryPath' variableName>
+
+Code for Logistic_regresion_Titanic_Octave.m code can be viewed in wordpad
 
 
-% To run Logistic_regresion_Titanic_Octave.m file just type filename and hit enter - whole code will be executed at once
-
-
-% Logistic_regresion_Titanic_Octave.m code can be viewed in wordpad
-
-% read
+% Read
