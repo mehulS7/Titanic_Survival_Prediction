@@ -1,7 +1,8 @@
 % Read
 
 DataSet_Preparation_Titanic_R.ipynb is a Jupyter notebook. You will have to install Jupyter on you system to execute the code.
-It's a clean and ordered way to run and prepare the data to train it using logistic regression.
+It's a clean and ordered way to run and prepare the data to train it using logistic regression. Please change the path_Directory in the 
+code as desired.  
 
 Another R file DataSet_Preparation_Titanic_R is also present where whole and some messy code for the project is present which 
 I initially worked upon to test and analyze many things before finally coming up to the proper steps.
